@@ -32,3 +32,4 @@ For full video: https://www.youtube.com/watch?v=4exJnZst20g
 ✅ DM me for more info.
 ---------------------------------------------------------------------------------------------------------------
 
+Telegram channel: https://t.me/solid_marketing
