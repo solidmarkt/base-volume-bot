@@ -21,12 +21,12 @@ https://github.com/user-attachments/assets/5eacc534-bf47-418e-a3cc-66e100253609
 ## 🚀 Key Features of the Full Bot
 
 ✅ Increase your volume quickly
-✅ 100% Fully automatic operation  
+ ✅ 100% Fully automatic operation  
 ✅ Boosts your chances of hitting **trending lists**  
 ✅ Simple and beginner-friendly interface  
 ✅ Lightweight and fast performance  
 ✅ Optimized low transaction fees
-✅ Affordable solution with negotiable pricing  
+ ✅ Affordable solution with negotiable pricing  
 ✅ Quick setup – No technical experience required
 
 ---
