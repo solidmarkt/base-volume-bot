@@ -50,7 +50,7 @@ DM us for pricing and setup details:
 🌐 Other Network Volume Bots
 For volume boosting solutions on other networks, check out our repository for various bots designed to increase activity and engagement across different platforms.
 
-👉 Other Network Volume Bots - GitHub
+👉 [Other Network Volume Bots - GitHub](https://github.com/solidmarkt/volume-bots)
 
 These bots are optimized to work across multiple networks, providing easy-to-use automation and volume boosting capabilities to help you grow your online presence.
 
