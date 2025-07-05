@@ -7,6 +7,7 @@ https://github.com/user-attachments/assets/5eacc534-bf47-418e-a3cc-66e100253609
 
 > 🚨 **Note:** DM US from Telegram (https://t.me/solidmarketing) if you want to buy full version of the bot. 💬
 
+🌐 **Website:** [(https://t.me/solid_marketing](https://www.solidmarketing.dev/))
 📬 **Contact on Telegram:** [@solidmarketing](https://t.me/solidmarketing)  
 📢 **Telegram Channel:** [@solid_marketing](https://t.me/solid_marketing)
 
